@@ -1,2 +1,2 @@
-# IF685_Gerenciamento_de_Dados_e_Informacao
+# IF685_GDI
 Repositório dedicado a disciplina de Gerenciamento de Dados e Informação
